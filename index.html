@@ -126,7 +126,7 @@
    var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
       layer.bindPopup('<b>'+feature.properties.Name+'</b><br>Adres: '
-		      +feature.properties.Location+'<br>Website: '
+		      +feature.properties.Address+'<br>Website: '
 		      +feature.properties.Url+'<br>Oppervlakte (m2): '
 		      +feature.properties.Description+'');
           
