@@ -132,7 +132,7 @@
           
     }
    });
-   var runLayer = omnivore.csv('data1.csv', null, customLayer)
+   var runLayer = omnivore.csv('data.csv', null, customLayer)
    .on('ready', function() {
     map.fitBounds(runLayer.getBounds());
    }).addTo(map);
