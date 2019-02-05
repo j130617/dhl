@@ -1,0 +1,84 @@
+Group,Marker Icon,Marker Color,Icon Color,Custom Size,Name,Image,Description,Address,Latitude,Longitude,Found Address,Match Quality,Source
+kantoor,building,orange,white,,DHL International B.V.,,73,Van Baerlestraat 114 AMSTERDAM,52.3554655,4.8802048,Van Baerlestraat 114, 1071 BC Amsterdam, Netherlands,Match,Google
+kantoor,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,137,Vliegveldweg 36 MAASTRICHT-AIRPORT,50.9214571,5.774021,Vliegveldweg 36, 6199 AD Maastricht-Airport, Netherlands,Match,Google
+kantoor,building,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,238,Shannonweg 35 SCHIPHOL,52.2903602,4.7660317,Shannonweg 35, 1118 LA Schiphol, Netherlands,Match,Google
+kantoor,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,390,Babberichseweg 2 ZEVENAAR,51.9216978,6.0840798,Babberichseweg 2, 6901 JW Zevenaar, Netherlands,Match,Google
+kantoor,building,gray,white,,DHL Freight (Netherlands) B.V.,,420,Shannonweg 39 SCHIPHOL,52.2898747,4.7654479,Shannonweg 39, 1118 Schiphol, Netherlands,Match,Google
+kantoor,building,blue,white,,DHL Supply Chain (Netherlands) B.V.,,533,Pascalweg 8 ZWOLLE,52.5001178,6.1318338,Pascalweg 8, 8013 RC Zwolle, Netherlands,Match,Google
+kantoor,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,642,Vliegveldweg 337 ENSCHEDE,52.2631637,6.8950905,Vliegveldweg 337, 7524 PT Enschede, Netherlands,Match,Google
+dc,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,1183,Ridderhaven 5 RIDDERKERK,51.8783997,4.6243914,Ridderhaven 5, 2984 BT Ridderkerk, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,1495,Tufsteen 8 HOOFDDORP,52.3060853,4.6907041,Hoofddorp, Netherlands,Partial Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,1516,Kellenseweg 16 TIEL,51.9060074,5.4416441,Kellenseweg 16, 4004 JD Tiel, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,1551,Antillen 19 APELDOORN,52.1830663,5.9776433,Antillen 19, 7333 PE Apeldoorn, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,1884,Engelandlaan 7 MAASTRICHT-AIRPORT,50.9187916,5.7892167,Engelandlaan, 6199 Maastricht-Airport, Netherlands,Match,Google
+dc,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,2411,Siriusdreef 17 - 27 HOOFDDORP,52.2922644,4.7103503,Siriusdreef 17-27, 2132 WT Hoofddorp, Netherlands,Match,Google
+dc,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,2637,Kaldenkerkerweg 20 VENLO,51.3638244,6.1746054,Kaldenkerkerweg 20, 5913 AE Venlo, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,2770,Jan Hilgersweg 12 EINDHOVEN,51.452139,5.3927542,Jan Hilgersweg 12, 5657 ES Eindhoven, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,2881,De Heldinnenlaan 205 UTRECHT,52.1200518,5.0265391,De Heldinnenlaan 205, 3543 MB Utrecht, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,3391,VRIJ-HARNASCH 21 DEN HOORN ZH,52.0082339,4.3129992,Vrij-Harnasch 21, 2635 Den Hoorn, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,3511,Rithmeesterpark 13 BREDA,51.5686805,4.7325209,Rithmeesterpark 13, 4838 GZ Breda, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,3918,Anderlechtstraat 15 EINDHOVEN,51.476785,5.4870937,Anderlechtstraat 15, 5628 WB Eindhoven, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,5341,Bamfordweg 1 ULESTRATEN,50.9101188,5.7742214,Bamfordweg 1, 6235 NS Ulestraten, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,7126,Vanderlandelaan 3 VEGHEL,51.6043478,5.5208875,Vanderlandelaan 3, 5466 RE Veghel, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,7167,Dopplerlaan 7 DRACHTEN,53.1006626,6.1316869,Dopplerlaan 7, 9207 HC Drachten, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,7268,Horsterweg 26 MAASTRICHT-AIRPORT,50.9188945,5.7866007,Horsterweg 26, 6199 AC Maastricht-Airport, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,7315,Hazenkamp 40 ARNHEM,51.9486656,5.8813973,Hazenkamp 40, 6836 BA Arnhem, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,7752,Berenkoog 48 ALKMAAR,52.6528747,4.7900496,Berenkoog 48, 1822 BJ Alkmaar, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,8069,Zilverenberg 5 Den Bosch,51.7208396,5.2902978,Zilverenberg 5, 5234 GL 's-Hertogenbosch, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,9180,Simon Stevinstraat 10 TIEL,51.9155667,5.4288275,Simon Stevinstraat 10, 4004 JP Tiel, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,10729,Basicweg 1 AMERSFOORT,52.1762357,5.4184601,Basicweg 1, 3821 BR Amersfoort, Netherlands,Match,Google
+dc,warehouse,darkgreen,white,,DHL Aviation (Netherlands) B.V.,,10743,Anchoragelaan 32 SCHIPHOL,52.2953846,4.7679877,Anchoragelaan 32, 1118 LD Schiphol, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,10743,Anchoragelaan 32 SCHIPHOL,52.2953846,4.7679877,Anchoragelaan 32, 1118 LD Schiphol, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,10743,Anchoragelaan 32 SCHIPHOL,52.2953846,4.7679877,Anchoragelaan 32, 1118 LD Schiphol, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (e-Commerce) B.V.,,11434,Atoomweg 30 UTRECHT,52.1037061,5.06776,Atoomweg 30, 3542 AB Utrecht, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,11512,Industrieweg 55 WAALWIJK,51.7009364,5.0606992,Industrieweg 55, 5145 PD Waalwijk, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,11632,Boekerman 1D OUD GASTEL,51.5664825,4.4755705,Boekerman 1, 4751 XK Oud Gastel, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,11645,Hornweg 64 AMSTERDAM,52.3965197,4.8057844,Hornweg 64, 1044 AN Amsterdam, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,12605,Rutherfordweg 1 UTRECHT,52.1204548,5.0561345,Rutherfordweg 1, 3542 CN Utrecht, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,12740,Blankenweg 22 BERGEN OP ZOOM,51.4960914,4.2568937,Blankenweg 22, 4612 RC Bergen op Zoom, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,12921,Lingenstraat 3 ZWOLLE,52.5346608,6.1705892,Lingenstraat 3, 8028 PM Zwolle, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,12921,Lingenstraat 3 ZWOLLE,52.5346608,6.1705892,Lingenstraat 3, 8028 PM Zwolle, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,13176,Kiotoweg 5 ROTTERDAM,51.9447661,4.396251,Kiotoweg 5, 3047 BG Rotterdam, Netherlands,Match,Google
+dc,warehouse,gray,white,,DHL Freight (Netherlands) B.V.,,14246,Opaalstraat 2 HENGELO OV,52.2419201,6.776567,Opaalstraat 2, 7554 TS Hengelo, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,14246,Opaalstraat 2 HENGELO OV,52.2419201,6.776567,Opaalstraat 2, 7554 TS Hengelo, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,14760,Kaapstadweg 25 AMSTERDAM,52.4048862,4.7420992,Kaapstadweg 25, 1047 HK Amsterdam, Netherlands,Match,Google
+dc,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,15578,Oliphantweg 10 BOTLEK ROTTERDAM,51.8698861,4.26409,Oliphantweg 10, 3197 LE Botlek Rotterdam, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,15578,Oliphantweg 10 BOTLEK ROTTERDAM,51.8698861,4.26409,Oliphantweg 10, 3197 LE Botlek Rotterdam, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (e-Commerce) B.V.,,15806,Reactorweg 25 UTRECHT,52.1050328,5.0639963,Reactorweg 25, 3542 AD Utrecht, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,15806,Reactorweg 25 UTRECHT,52.1050328,5.0639963,Reactorweg 25, 3542 AD Utrecht, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,16434,Borchwerf 23 ROOSENDAAL,51.5464201,4.4588867,Borchwerf 23, 4704 RG Roosendaal, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,16434,Borchwerf 23 ROOSENDAAL,51.5464201,4.4588867,Borchwerf 23, 4704 RG Roosendaal, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,16923,Laan van Waalhaven 10 Den Haag,52.0422754,4.3594888,Laan van Waalhaven 10, 2497 GJ Den Haag, Netherlands,Match,Google
+dc,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,18330,Prestwickweg 1 SCHIPHOL,52.2927749,4.7672971,Prestwickweg 1, 1118 LB Schiphol, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,18348,Flight Forum 1950 EINDHOVEN,51.4493069,5.4006371,Flight Forum 1950, 5657 EZ Eindhoven, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,18779,Lingewei 6 TIEL,51.9190527,5.4560585,Lingewei 6, 4004 LL Tiel, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,18988,Rutherfordweg 102 UTRECHT,52.1213704,5.0520649,Rutherfordweg 102, 3542 CG Utrecht, Netherlands,Match,Google
+dc,warehouse,gray,white,,DHL Freight (Netherlands) B.V.,,19866,De Riemsdijk 1 TIEL,51.9178474,5.4445359,De Riemsdijk 1, 4004 LC Tiel, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,19866,De Riemsdijk 1 TIEL,51.9178474,5.4445359,De Riemsdijk 1, 4004 LC Tiel, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,24956,Zwenkgras 11 BERINGE,51.3318928,5.9167514,Zwenkgras 11, 5986 PM Beringe, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,25434,Achtseweg Noord 32 EINDHOVEN,51.4688608,5.4228725,Achtseweg Noord 32, 5651 GG Eindhoven, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,25831,Bolwerkdok 2 NIEUWEGEIN,52.0149261,5.1162757,Bolwerkdok, 3433 Nieuwegein, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,26400,Zwenkgras 7 BERINGE,51.3319538,5.9161668,Zwenkgras 7, 5986 PM Beringe, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,26400,Zwenkgras 7 BERINGE,51.3319538,5.9161668,Zwenkgras 7, 5986 PM Beringe, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,27899,Heksekamp 29 ZALTBOMMEL,51.7984332,5.2722316,Heksekamp 29, 5301 Zaltbommel, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,28978,Bijsterhuizen 3140 WIJCHEN,51.8216294,5.7672101,Bijsterhuizen 3140, 6604 LP Wijchen, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,29179,Schoorgras 10 BERINGE,51.334183,5.9178731,Schoorgras 10, 5986 PK Beringe, Netherlands,Match,Google
+dc,warehouse,gray,white,,DHL Freight (Netherlands) B.V.,,29343,Achtseweg Noord 20 EINDHOVEN,51.4714612,5.422649,Achtseweg Noord 20, 5651 GG Eindhoven, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,29343,Achtseweg Noord 20 EINDHOVEN,51.4714612,5.422649,Achtseweg Noord 20, 5651 GG Eindhoven, Netherlands,Match,Google
+dc,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,32747,Brem 5 BEST,51.4908173,5.3885546,Brem 5, 5684 PB Best, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,32747,Brem 5 BEST,51.4908173,5.3885546,Brem 5, 5684 PB Best, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,35035,Bijsterhuizen 1127 NIJMEGEN,51.8274142,5.7645523,Bijsterhuizen 1127, 6546 AR Nijmegen, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,37172,Achtseweg Noord 30 EINDHOVEN,51.4701014,5.4248221,Achtseweg Noord 30, 5651 GG Eindhoven, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain Management B.V.,,37172,Achtseweg Noord 30 EINDHOVEN,51.4701014,5.4248221,Achtseweg Noord 30, 5651 GG Eindhoven, Netherlands,Match,Google
+dc,warehouse,white,white,,DHL Technical Distribution B.V.,,37172,Achtseweg Noord 30 EINDHOVEN,51.4701014,5.4248221,Achtseweg Noord 30, 5651 GG Eindhoven, Netherlands,Match,Google
+dc,warehouse,lightblue,white,,DHL Global Forwarding (Netherlands) B.V.,,40356,Zwenkgras 3 BERINGE,51.3335945,5.9171041,Zwenkgras 3, 5986 PM Beringe, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,40356,Zwenkgras 3 BERINGE,51.3335945,5.9171041,Zwenkgras 3, 5986 PM Beringe, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,42015,Holtum-Noordweg 20 BORN,51.066425,5.8196028,Holtum-Noordweg 20, 6121 RE Born, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,#n/b,De Brand 19 AMERSFOORT,52.188929,5.4074428,De Brand 19, 3823 LH Amersfoort, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,#n/b,Genuakade 8 KAMPEN,52.5791942,5.8642916,Genuakade 8, 8263 CG Kampen, Netherlands,Match,Google
+dc,warehouse,orange,white,,DHL International B.V.,,#n/b,Groningensingel 1 ARNHEM,51.9582392,5.9016941,Groningensingel 1, 6835 EA Arnhem, Netherlands,Match,Google
+dc,warehouse,red,white,,DHL Parcel (Netherlands) B.V.,,#n/b,Groningensingel 1 ARNHEM,51.9582392,5.9016941,Groningensingel 1, 6835 EA Arnhem, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,#n/b,Koolhovenlaan 35 SCHIPHOL-RIJK,52.2847049,4.7652054,Koolhovenlaan 35, 1119 NB Schiphol-Rijk, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,#n/b,Marconilaan 20 BERGEN OP ZOOM,51.5047705,4.3089117,Marconilaan 20, 4622 RD Bergen op Zoom, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,#n/b,Shannonweg 66 BOTLEK ROTTERDAM,51.8756105,4.2505577,Shannonweg 66, 3197 LH Botlek Rotterdam, Netherlands,Match,Google
+dc,warehouse,blue,white,,DHL Supply Chain (Netherlands) B.V.,,#n/b,Zwenkgras 15 BERINGE,51.3318928,5.9167514,Zwenkgras 15, 5986 PM Beringe, Netherlands,Match,Google
